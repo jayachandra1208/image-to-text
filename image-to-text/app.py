@@ -1,4 +1,3 @@
-pip install easyocr
 import easyocr as ocr  # OCR
 import streamlit as st  # Web App
 from PIL import Image  # Image Processing
