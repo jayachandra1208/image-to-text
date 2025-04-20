@@ -1,6 +1,6 @@
-streamlit
-easyocr
-opencv-python-headless
-Pillow
-numpy
-torch
+streamlit==1.32.2
+easyocr==1.7.1
+opencv-python-headless==4.9.0.80
+Pillow==10.2.0
+numpy==1.24.4
+torch==2.1.0
